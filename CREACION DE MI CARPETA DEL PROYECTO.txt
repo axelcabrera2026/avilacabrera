@@ -1,0 +1,11 @@
+#### creacion de mi carpeta de proyecto###
+
+sigue los siguientes pasos para crar el proyecto final no importando en que computadora se encuentre.
+
+1.crea la carpeta proyectofinalnombre (sustituye A,C por el tuyo), en documentos va esta carpeta.
+
+2.descarga de tu repositorio el proyectofinal.py y las imagnes creadas}
+
+3. realiza los cambios y las actividades de cada leccion
+
+$.suvbe a tu repositoruio el proyecto final.py con los cambios realizados
